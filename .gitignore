@@ -1,4 +1,6 @@
 *.py[cod]
+#GIT
+.metadata/
 
 # C extensions
 *.so
